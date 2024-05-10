@@ -1,0 +1,4 @@
+{
+    "tables":["editor_unit"],
+    "global_trigger": true
+}
